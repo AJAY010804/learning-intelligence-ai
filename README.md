@@ -56,7 +56,7 @@ The system is designed using a modular, production-style architecture:
 
 ## Project Directory Structure
 
-
+```
 learning-intelligence-ai/
 │
 ├── app.py                  # FastAPI application entry point
@@ -82,7 +82,7 @@ learning-intelligence-ai/
 │   └── test_basic.py       # Unit tests for prediction logic
 │
 └── sample_output.json      # Example API output
-
+```
 
 ---
 
@@ -213,4 +213,3 @@ All machine learning logic, feature engineering, model training, system design, 
 ## Author
 
 **Ajay Yemmewar**
-Data Science & Machine Learning Internship Candidate
