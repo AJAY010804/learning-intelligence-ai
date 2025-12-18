@@ -1,0 +1,13 @@
+{
+  "student_id": 101,
+  "course_id": "DS101",
+  "prediction": "Likely to Drop Out",
+  "completion_probability": 0.12,
+  "risk_level": "High Risk",
+  "chapter_difficulty": "Hard",
+  "insights": [
+    "Low assessment score indicates learning difficulty",
+    "High time spent suggests content complexity",
+    "Immediate mentor intervention recommended"
+  ]
+}
